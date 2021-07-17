@@ -3,8 +3,8 @@ package controller_test
 import (
 	"testing"
 
-	"github.com/XrayR-project/XrayR/api"
-	. "github.com/XrayR-project/XrayR/service/controller"
+	"github.com/frainzy1477/XrayR/api"
+	. "github.com/frainzy1477/XrayR/service/controller"
 )
 
 func TestBuildV2ray(t *testing.T) {

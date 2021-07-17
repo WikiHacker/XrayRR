@@ -11,7 +11,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/XrayR-project/XrayR/panel"
+	"github.com/frainzy1477/XrayR/panel"
 	"github.com/fsnotify/fsnotify"
 	"github.com/spf13/viper"
 )
