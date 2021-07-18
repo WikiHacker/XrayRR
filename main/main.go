@@ -11,7 +11,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/frainzy1477/XrayR/panel"
+	"github.com/frainzy1477/XrayRR/panel"
 	"github.com/fsnotify/fsnotify"
 	"github.com/spf13/viper"
 )
@@ -22,7 +22,7 @@ var (
 )
 
 var (
-	version  = "0.6.0"
+	version  = "0.6.1"
 	codename = "XrayR"
 	intro    = "A Xray backend that supports many panels"
 )

@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/frainzy1477/XrayR/common/legocmd/log"
+	"github.com/frainzy1477/XrayRR/common/legocmd/log"
 	"github.com/go-acme/lego/v4/certificate"
 	"github.com/go-acme/lego/v4/lego"
 	"github.com/go-acme/lego/v4/registration"
